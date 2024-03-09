@@ -1,0 +1,1 @@
+Please download the pretrained [SAM Encoder Model](https://pan.baidu.com/s/1b3TwZSPLRlRNU4oCwrbUFQ?pwd=rydg)(provided by the original repository of [SAM](https://segment-anything.com/)).
